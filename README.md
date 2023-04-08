@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ezgi Uzunçam</h1>
 <h3 align="center">A passionate frontend developer from Türkiye.</h3>
 
--❔ I am an interface developer interested in designing and coding web programming front-end elements. I am a recent graduate of Computer Programming. I am developing myself in the frontend field. I had the opportunity to attend a frontend training that lasted for about five months and to use many technologies here. Every day, I try to improve myself and gain new skills with up-to-date technologies and various trainings. I develop interactive user interfaces using JavaScript, React, HTML, CSS, Bootstrap and SCSS.
+-❔ I am an interface developer interested in designing and coding web programming front-end elements. Every day, I try to improve myself and gain new skills with up-to-date technologies and various trainings. I develop interactive user interfaces using JavaScript, React, HTML, CSS, Bootstrap and SCSS.
 
 -🔒I have a character who is curious in his field, loves to research, is open to innovations, can communicate well with people and can can develop practical solution strategies to problems with an objective point of view.
 
